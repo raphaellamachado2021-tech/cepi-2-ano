@@ -1,0 +1,21 @@
+Ola Mundo!
+Esse e o inicio do meu projeto no itinerario do SENAI.
+
+Clique Aqui
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Projeto SENAI</title>
+</head>
+<body>
+
+    <h1>Ola Mundo!</h1>
+
+    <p>Esse e o inicio do meu projeto no itinerario do SENAI.</p>
+
+    <button onclick="alert('Voce clicou no botao!')">Clique Aqui</button>
+
+</body>
+</html>
